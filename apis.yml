@@ -1,7 +1,12 @@
 aid: nvr
-url: https://raw.githubusercontent.com/api-evangelist/nvr/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/nvr/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.nvr.com
+description: >-
+  NVR Inc. operates in two business segments: homebuilding and mortgage banking, constructing
+  and selling single-family detached homes, townhomes, and condominium buildings under
+  the Ryan Homes, NVHomes, and Heartland Homes brands.
