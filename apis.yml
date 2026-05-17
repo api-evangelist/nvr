@@ -5,7 +5,7 @@ description: >-
   constructing and selling single-family detached homes, townhomes, and
   condominium buildings under the Ryan Homes, NVHomes, and Heartland Homes
   brands.
-type: Contract
+kind: contract
 position: Consuming
 access: 3rd-Party
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
