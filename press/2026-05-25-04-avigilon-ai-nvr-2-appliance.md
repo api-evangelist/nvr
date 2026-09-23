@@ -1,7 +1,9 @@
 ---
 title: Avigilon AI NVR 2 Appliance
 url: https://www.avigilon.com/nvr-systems/ai-nvr-2
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"NVR" press release artificial intelligence'
 position: 4
 source: serpapi-google

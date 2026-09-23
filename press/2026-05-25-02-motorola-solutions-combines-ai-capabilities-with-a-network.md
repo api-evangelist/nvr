@@ -1,7 +1,9 @@
 ---
 title: Motorola Solutions Combines AI Capabilities with a Network ...
 url: https://www.motorolasolutions.com/newsroom/press-releases/motorola-solutions-combines-ai-capabilities-with-network-video-recorder-to-.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"NVR" press release artificial intelligence'
 position: 2
 source: serpapi-google
